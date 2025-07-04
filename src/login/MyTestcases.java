@@ -17,6 +17,8 @@ public class MyTestcases {
 		driver.get(TheURL);
 		
 		driver.manage().window().maximize();
+		
+		//manaf
 	}
 	
 	
